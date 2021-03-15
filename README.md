@@ -1,6 +1,13 @@
 #Εργαστηριακές Ασκήσεις
 
-<span style="color:blue">Εδώ θα ανεβαίνει ο κώδικας που θα παρουσιάζεται στα εργαστήρια.</span>
+Εδώ θα ανεβαίνει ο κώδικας που θα παρουσιάζεται στα εργαστήρια.
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 <table>
   <tbody>
